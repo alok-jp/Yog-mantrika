@@ -8,16 +8,13 @@ const healthLabelMap = {
   thyroid: "Thyroid (थायरॉइड)",
   pcos: "PCOS/PCOD (पीसीओएस/पीसीओडी)",
   cervical: "Cervical Pain (गर्दन दर्द)",
-  slipDisc: "Slip Disc (स्लिप डिस्क)",
   kneePain: "Knee Pain (घुटने का दर्द)",
   backPain: "Back Pain (पीठ दर्द)",
   arthritis: "Arthritis (गठिया)",
   asthma: "Asthma (दमा)",
   migraine: "Migraine (माइग्रेन)",
-  heartDisease: "Heart Disease (हृदय रोग)",
   anxiety: "Anxiety (चिंता)",
   depression: "Depression (अवसाद)",
-  epilepsy: "Epilepsy/Seizures (मिर्गी/दौरे)",
   recentSurgery: "Recent Surgery (हाल की सर्जरी)",
 };
 
