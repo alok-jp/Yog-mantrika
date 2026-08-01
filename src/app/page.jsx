@@ -17,16 +17,13 @@ const healthOptions = [
   { key: "thyroid", en: "Thyroid", hi: "थायरॉइड" },
   { key: "pcos", en: "PCOS/PCOD", hi: "पीसीओएस/पीसीओडी" },
   { key: "cervical", en: "Cervical Pain", hi: "गर्दन दर्द" },
-  { key: "slipDisc", en: "Slip Disc", hi: "स्लिप डिस्क" },
   { key: "kneePain", en: "Knee Pain", hi: "घुटने का दर्द" },
   { key: "backPain", en: "Back Pain", hi: "पीठ दर्द" },
   { key: "arthritis", en: "Arthritis", hi: "गठिया" },
   { key: "asthma", en: "Asthma", hi: "दमा" },
   { key: "migraine", en: "Migraine", hi: "माइग्रेन" },
-  { key: "heartDisease", en: "Heart Disease", hi: "हृदय रोग" },
   { key: "anxiety", en: "Anxiety", hi: "चिंता" },
   { key: "depression", en: "Depression", hi: "अवसाद" },
-  { key: "epilepsy", en: "Epilepsy/Seizures", hi: "मिर्गी/दौरे" },
   { key: "recentSurgery", en: "Recent Surgery", hi: "हाल की सर्जरी" },
 ];
 
